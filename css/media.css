@@ -1,0 +1,263 @@
+@media(max-width:575px){
+  .logo{
+    width: 33%;
+    margin-top: 60px ;
+    margin-left: 15px;
+}
+  
+
+  .background_info {
+    margin-top: 15px;
+  }
+
+  .bg{
+    margin-left: -140px;
+    margin-top: -125px;
+    align-items: center;
+
+  }
+
+  .bg_icon{
+    width: 7%;
+    margin-bottom: 10px;
+  }
+
+  .bg_text{
+    margin-bottom: 10px;
+  }
+
+
+.navbar-toggler{
+  margin-top: -60px;
+  margin-left: 300px;
+}
+  
+.navbar-light .navbar-toggler {
+    color: transparent;
+}
+  .nav-item{
+    text-align: center;
+  }
+.heading h1{
+  font-size: 70px;
+}
+.heading h2{
+  font-size: 50px;
+}
+.heading p {
+    margin-bottom: 30px;
+    
+  }
+
+  .bg_img {
+
+    padding-bottom: 32px;
+    margin-right: 34px;
+
+}
+
+.price_tag {
+  margin-left: -110px;
+  margin-bottom: -25px;
+}
+
+.burgers{
+  text-align: center;
+}
+
+.burger_house_text {
+  margin-left: 0px;
+  text-align: center;
+
+}
+
+.burger_house_item {
+  margin-left: 90px;
+
+}
+
+.form_class form {
+
+  z-index: 10;
+}
+
+.side_pic_1 {
+ left: 0px; 
+ z-index: -1;
+}
+
+.side_pic_2 {
+
+  left: 0;
+  z-index: -2;
+
+}
+
+.burger_house h6 {
+
+  text-align: center;
+}
+
+.footer_icons {
+
+  justify-content: center;
+}
+
+}
+
+@media(max-width:400px){
+  .bg{
+    margin-left: -60px;
+    text-align: center;
+  }
+
+  .bg_icon{
+    width: 15%;
+  }
+
+.bg_text{
+  font-size: 12px;
+}
+
+
+.logo{
+  width: 38%;
+}
+
+.heading h1 {
+  font-size: 50px;
+}
+
+.bg_img{
+  margin-bottom: 42px;
+  margin-right: -48px;
+}
+
+.burger_house_img{
+  width: 82%;
+}
+
+.burger_house_text{
+
+    font-size: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.burger_house_item{
+  margin-left: 28px;
+}
+
+}
+
+@media(max-width:320px){
+  .bg {
+    margin-left: -10px;
+    margin-top: -125px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+.bg_icon{
+  width: 15%;
+  margin-top: 20px;
+}
+
+.bg_text{
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.logo {
+  width: 50%;
+}
+
+.navbar-toggler{
+  margin-left: 200px;
+  margin-bottom: -22px;
+}
+
+
+.heading h1 {
+  font-size: 40px;
+}
+
+.bg_img {
+  padding-bottom: 130px;
+  margin-right: -40px;
+}
+
+.price_tag {
+  margin-left: -100px;
+  margin-bottom: -10px;
+
+}
+
+.popular_text-2 h5{
+  font-size: 18px;
+}
+
+.popular_text-2 h2{
+  font-size: 22px;
+}
+
+.popular_text-2 h2{
+  font-size: 25px;
+}
+
+.burger_house_img{
+  width: 80%;
+
+}
+
+.slider h5{
+  font-size: 30px;
+  text-align: center;
+}
+.slider h1 {
+
+  font-size: 30px;
+  text-align: center;
+}
+
+.side_pic_2 {
+  left: -6%;
+ 
+}
+
+.side_pic_3 {
+
+ left: 10%;
+  z-index: -3;
+}
+
+.burger_house_item{
+  margin-left: 0;
+}
+
+.burger_house_item ul li i {
+
+  font-size: 22px;
+}
+
+.burger_house_item ul li {
+
+  font-size: 15px;
+}
+
+
+.burger_house h6 {
+  font-size: 12px;
+
+  
+
+}
+
+.footer_icons {
+
+  justify-content: center;
+}
+}
+
+
+
